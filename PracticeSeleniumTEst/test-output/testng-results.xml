@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-04T14:57:36 ICT" name="Default suite" finished-at="2019-10-04T14:58:11 ICT" duration-ms="35627">
+    <groups>
+    </groups>
+    <test started-at="2019-10-04T14:57:36 ICT" name="Default test" finished-at="2019-10-04T14:58:11 ICT" duration-ms="35627">
+      <class name="Practice.multipleSelectList">
+        <test-method signature="slJavaTest()[pri:1, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:57:36 ICT" name="slJavaTest" finished-at="2019-10-04T14:57:41 ICT" duration-ms="5162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slJavaTest -->
+        <test-method signature="slCTest()[pri:2, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:57:41 ICT" name="slCTest" finished-at="2019-10-04T14:57:45 ICT" duration-ms="4716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slCTest -->
+        <test-method signature="slCSTest()[pri:3, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:57:45 ICT" name="slCSTest" finished-at="2019-10-04T14:57:51 ICT" duration-ms="5221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slCSTest -->
+        <test-method signature="slJavaScriptTest()[pri:4, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:57:51 ICT" name="slJavaScriptTest" finished-at="2019-10-04T14:57:56 ICT" duration-ms="5304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slJavaScriptTest -->
+        <test-method signature="slPythonTest()[pri:5, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:57:56 ICT" name="slPythonTest" finished-at="2019-10-04T14:58:01 ICT" duration-ms="5423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slPythonTest -->
+        <test-method signature="slPHPTest()[pri:6, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:58:01 ICT" name="slPHPTest" finished-at="2019-10-04T14:58:07 ICT" duration-ms="5523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slPHPTest -->
+        <test-method signature="slIsMultiple()[pri:7, instance:Practice.multipleSelectList@15761df8]" started-at="2019-10-04T14:58:07 ICT" name="slIsMultiple" finished-at="2019-10-04T14:58:11 ICT" duration-ms="4255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slIsMultiple -->
+      </class> <!-- Practice.multipleSelectList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

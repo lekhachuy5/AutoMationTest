@@ -314,6 +314,23 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
 # OpenCover UI analysis results
 OpenCover/
 
